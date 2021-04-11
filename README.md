@@ -1,6 +1,7 @@
 # Predicting US Stocks Returns Direction (UP/DOWN)
 ## Implementing Anchor bias theory 
 
+[My Research Paper for the Subject!](https://www.academia.edu/40213993/Algorithmic_Trading_High_Frequency_and_Low_Frequency_Trading?source=swp_share)
 
 ### Problem Identification :
 Investors are anchored to the long term moving averages. The long term moving average is defined by the 252 moving average, and the short term is defined by the 21-Day moving average. The distance between the two moving averages is the moving average distance (MAD = 21-DAY MA / 252-DAY MA). When the MAD>1, the ditance is called a positive spread and when MAD< 1, the distance is caleed a negative spread. 
